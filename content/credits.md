@@ -5,4 +5,7 @@ layout: "credits"
 
 ---
 
-**Put Content Some Content About YourSelf On This Page**
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
