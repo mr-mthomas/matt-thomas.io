@@ -65,8 +65,8 @@ params:
     # buttons:
     #   - name: Posts
     #     url: posts
-    #   - name: Credits
-    #     url: credits
+      - name: Credits
+        url: credits
 
   socialIcons:
     - name: twitter
