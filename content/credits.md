@@ -5,7 +5,7 @@ layout: "credits"
 
 ---
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Role      | Event/Programme | Event/Programme |
+| ----------- | ----------- | ----------- |
+| Header      | Title       | Test |
+| Paragraph   | Text        | Test |
