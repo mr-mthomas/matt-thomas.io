@@ -5,8 +5,8 @@ layout: "credits"
 
 ---
 
-| Role      | Event/Programme |
-| :----: | :----: | :----: |
+| Role | Event/Programme |
+| :----: | :----: |
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
