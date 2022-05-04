@@ -57,7 +57,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Matt Thomas
-    subtitle: "Broadcast Audio & Communications Engineer"
+    subtitle: "Broadcast Sound Supervisor & Guarantee"
     imageUrl: "img/profile.jpg"
     imageWidth: 150
     imageHeight: 150
