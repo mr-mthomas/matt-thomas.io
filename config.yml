@@ -62,9 +62,9 @@ params:
     imageWidth: 150
     imageHeight: 150
     imageTitle: Matt Thomas BBC Sound
-    buttons:
-    - name: Credits
-      url: credits
+    # buttons:
+    # - name: Credits
+    #   url: credits
 
   socialIcons:
     - name: twitter
