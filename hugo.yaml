@@ -27,6 +27,8 @@ params:
       url: https://github.com/mr-mthomas
     - name: Twitter
       url: https://twitter.com/matts__x
+    - name: Instagram
+      url: https://www.instagram.com/matts_meta/
 
 menus:
   main:
