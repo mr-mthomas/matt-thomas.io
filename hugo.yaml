@@ -13,6 +13,8 @@ params:
 
   assets:
     favicon: favicon.ico
+
+  ShowCodeCopyButtons: true
   
   profileMode:
     enabled: true
