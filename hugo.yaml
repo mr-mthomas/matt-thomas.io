@@ -20,7 +20,7 @@ params:
     subtitle: Documenting my discoveries in Broadcast Audio and IT!
     imageUrl: img/mt.jpg
     imageTitle: Matt Thomas
-    imageWidth: 175
+    imageWidth: 180
     imageHeight: 175
     buttons:
       - name: Blog
