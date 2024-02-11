@@ -13,7 +13,7 @@ params:
   
   profileMode:
     enabled: true
-    title: Hi!
+    title: Hello!
     subtitle: Documenting my discoveries in the IT world!
     imageUrl: img/mt.jpg
     imageTitle: Matt Thomas
