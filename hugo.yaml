@@ -1,4 +1,4 @@
-baseURL: matt-thomas.io
+baseURL: https://moonlit-naiad-3cb2a5.netlify.app/
 languageCode: en-us
 params:
   contact:
