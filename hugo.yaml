@@ -37,7 +37,7 @@ params:
       url: https://twitter.com/matts__x
     - name: Instagram
       url: https://www.instagram.com/matts_meta/
-    - nmae: buymeacoffee
+    - name: buymeacoffee
       url: https://www.buymeacoffee.com/mrmthomas
 
 menus:
