@@ -10,7 +10,9 @@ theme: PaperMod
 
 params:
   defaultTheme: light
-  favicon: "/img/favicon.ico"
+
+  assets:
+    favicon: /static/favicon.ico
   
   profileMode:
     enabled: true
