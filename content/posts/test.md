@@ -6,3 +6,7 @@ tags = ['test1', 'test2']
 +++
 
 # This is a test post
+
+```Shell
+sudo nano /etc/ssh/sshd_config
+```
