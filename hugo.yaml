@@ -25,6 +25,8 @@ params:
       url: https://www.linkedin.com/in/mrmthomas/
     - name: Github
       url: https://github.com/mr-mthomas
+    - name: Twitter
+      url: https://twitter.com/matts__x
 
 menus:
   main:
