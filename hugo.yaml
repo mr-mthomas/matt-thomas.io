@@ -1,0 +1,42 @@
+baseURL: matt-thomas.io
+languageCode: en-us
+params:
+  contact:
+    email:
+    phone:
+  subtitle:
+title: Matt Thomas
+theme: PaperMod
+
+params:
+  defaultTheme: light
+  
+  profileMode:
+    enabled: true
+    title: Hi!
+    subtitle: Documenting my discoveries in the IT world!
+    imageUrl: img/mt.jpg
+    imageTitle: Matt Thomas
+    imageWidth: 175
+    imageHeight: 175
+
+  socialIcons:
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/mrmthomas/
+    - name: Github
+      url: https://github.com/mr-mthomas
+
+menus:
+  main:
+    - name: Home
+      pageRef: /
+      weight: 10
+    - name: About
+      pageRef: /about
+      weight: 20
+    - name: Blog
+      pageRef: /posts
+      weight: 30
+    - name:
+      pageRef:
+      weight:
