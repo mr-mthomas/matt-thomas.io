@@ -12,7 +12,7 @@ params:
   defaultTheme: light
 
   assets:
-    favicon: /static/favicon.ico
+    favicon: favicon.ico
   
   profileMode:
     enabled: true
@@ -22,6 +22,9 @@ params:
     imageTitle: Matt Thomas
     imageWidth: 175
     imageHeight: 175
+    buttons:
+      - name: Blog
+        url: /posts
 
   socialIcons:
     - name: LinkedIn
