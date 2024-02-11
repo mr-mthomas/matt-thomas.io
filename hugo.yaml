@@ -51,6 +51,3 @@ menus:
     - name: Blog
       pageRef: /posts
       weight: 30
-    - name:
-      pageRef:
-      weight:
