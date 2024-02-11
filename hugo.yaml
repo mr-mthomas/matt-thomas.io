@@ -5,7 +5,7 @@ params:
     email:
     phone:
   subtitle:
-title: Matt Thomas
+title: matt-thomas.io
 theme: PaperMod
 
 params:
@@ -13,8 +13,8 @@ params:
   
   profileMode:
     enabled: true
-    title: Hello!
-    subtitle: Documenting my discoveries in the IT world!
+    title: Matt Thomas
+    subtitle: Documenting my discoveries in Broadcast Audio and IT!
     imageUrl: img/mt.jpg
     imageTitle: Matt Thomas
     imageWidth: 175
