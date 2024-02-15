@@ -9,7 +9,7 @@ title: matt-thomas.io
 theme: PaperMod
 
 params:
-  defaultTheme: light
+  defaultTheme: dark
 
   assets:
     favicon: favicon.ico
