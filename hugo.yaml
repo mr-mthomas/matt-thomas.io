@@ -19,7 +19,7 @@ params:
   profileMode:
     enabled: true
     title: Matt Thomas
-    subtitle: Broadcast Audio and IT
+    subtitle: Broadcast Sound, Communications and IT
     imageUrl: img/mt.jpg
     imageTitle: Matt Thomas
     imageWidth: 180
